@@ -1,2 +1,2 @@
-# computational-semiotics
-Writings and code examples on computational semiotics and associated efforts
+# categorical-semiotics
+Writings and code examples on categorical semiotics and associated efforts
