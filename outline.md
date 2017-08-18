@@ -1,9 +1,11 @@
 # Signs and Signals
 A brief history of mathematical logic in the 20th century and the parallel development of the concepts of signals and information.    
 
-# Signs of signs, models of modeling, universe of universes
+# Signs of signs
 
-The central role of reflection.  Foundations of semiotics in the notion of validity of intra-subjective knowledge.  The need to define semiotics within an existing sign system.  All signs are arguments, but not all signs are signs of arguments.  The idea that semiotics is broader than language and includes pre-linguistic ideas.  The same arguments applied to math - includes pre-
+Models of modeling, Universe of universes
+
+The central role of reflection.  Foundations of semiotics in the notion of validity of intra-subjective knowledge.  The need to define semiotics within an existing sign system.  All signs are arguments, but not all signs are signs of arguments.  The idea that semiotics is broader than language and includes pre-linguistic ideas.  The same arguments applied to math - includes intuitions derived from pre-linguistic concepts such as motion.  
 
 # Universal properties
 
@@ -17,7 +19,11 @@ Goguen's categorical systems theory.
 
 Discuss Lawvere's work in translating Hegel's work into category theory.  Relationship between Peirce and Hegel, reason
 
+Unity and identity of opposites as adjoint cylinder.
+
 # Modality
+
+Modality as adjoint logic.  Continuing reflection theme as adjunctions of adjunctions.  
 
 # Continuity
 
