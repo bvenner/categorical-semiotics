@@ -1,0 +1,16 @@
+--- 
+title: "Categorical Logic, Considered as Formal Semiotics"
+author: "Brad Venner"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: 
+biblio-style: apalike
+link-citations: yes
+github-repo: bvenner/categorical-semiotics
+description: "Discussion of the applications of mathematical category theory to semiotics, incorporating insights from categorical logic, categorical dialectic, and algebraic semiotics."
+---
+
+# Acknowledgements
+
