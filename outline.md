@@ -1,11 +1,23 @@
 # Signs and Signals
 A brief history of mathematical logic in the 20th century and the parallel development of the concepts of signals and information.    
 
+## Form and Information
+
+Inform - transfer of form, describes the .  Information - reificication of a relationship to a thing.  
+
 # Signs of signs
+
+I'd like to outline speculative grammar in this chaper.  Speculative grammar (or theoretical grammar) as the pre-critical analysis of signs themselves.  
 
 Models of modeling, Universe of universes
 
-The central role of reflection.  Foundations of semiotics in the notion of validity of intra-subjective knowledge.  The need to define semiotics within an existing sign system.  All signs are arguments, but not all signs are signs of arguments.  The idea that semiotics is broader than language and includes pre-linguistic ideas.  The same arguments applied to math - includes intuitions derived from pre-linguistic concepts such as motion.  
+The central role of reflection.  Foundations of semiotics in the notion of validity of intra-subjective knowledge.  The need to define semiotics within an existing sign system.  
+
+All signs are arguments (i.e. induce semiosis), but not all signs are signs of arguments.  
+
+The idea that semiotics is broader than language and includes pre-linguistic ideas.  
+
+The same arguments applied to math - includes intuitions derived from pre-linguistic concepts such as motion.  
 
 # Universal properties
 
